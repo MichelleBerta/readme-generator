@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-
+const path = require('path');
 
 const generateMarkdown = require('./utils/generateMarkdown');
 
@@ -68,12 +68,9 @@ fs.writeFileSync(fileName, generateMarkdown(data));
 
 // TODO: Create a function to initialize app
 function init() {
-  
   inquirer
   .prompt(questions)
-  .then((response) =>
-  writeToFile('readMe.md', response)
-  );
+  .then((response) => writeToFile(`${__dirname}/output/ReadME.md`, response));
 }
 
 // Function call to initialize app

@@ -1,31 +1,31 @@
 
+  Project title
+
   ##TABLE OF CONTENTS
 
-  #1. Email
-  same
+  #1. Project Description
+  This is an awesome project with many functions
 
-  #2. Username 
-  same
+  #2. Installation Instructions
+  just install it
+  
+  #3. Usage
+  use it for everything
+  
+  #4. License Requirements
+  ![GitHub license](https://img.shields.io/badge/license-None-blue.svg)
+  
+  
+  
+  #5. Contributors to this project
+  Don't contribute to this project
+  
+  #6. Tests that were conducted
+  I ran all of the tests possible on the project
 
-  #3. Title
-  same
+  #7. This project was created by 
+  githubUser
 
-  #4. Project Description
-  same
-
-  #5. Installation Instructions
-  same
-
-  #6. Usage
-  same
-
-  #7. License Requirements
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg);
-  ;
-  ;
-
-  #8. Contributors
-  same
-
-  #9. Tests
-  same
+  #8. If you have questions about this project, you can email
+  sample@email.com
+  
